@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Kotlin2JsCompilerArguments">
+    <option name="sourceMapEmbedSources" />
+    <option name="sourceMapPrefix" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-config-server-9091/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-user-service-8081/user-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-order-serivce-8082/order-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-hystrix-dashboard-9092/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-gateway-8080/pom.xml" />
+        <option value="$PROJECT_DIR$/gupao-mall-goods-service-8083/goods-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/gupao-mall-goods-service-8083/goods-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/gupao-mall-goods-service-8083/pom.xml" />
+        <option value="$PROJECT_DIR$/gupao-mall-order-service-8082/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
